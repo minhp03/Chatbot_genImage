@@ -1,6 +1,8 @@
 # GRADIO CHATBOT+CHATGPT+ ABLE TO GENERATIVE AI
 # Overview
 
+
+It gonna have 2 files , first file with the gradio app, second file with feature function calling that I add extra .
 prompt : can you draw me a dragon in M&M context
 
 
